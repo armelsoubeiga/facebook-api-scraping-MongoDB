@@ -1,7 +1,7 @@
 {
     "credentials": {
-        "appId": "475405940468229",
-        "appSecret": "xrabybAYA9AAfcy-Vr1GJoluttQ"
+        "appId": "",
+        "appSecret": ""
     },
     "pages": [
         {"name": "WesternUnion", "id": 124186682456}
