@@ -22,8 +22,6 @@ postsColl = db.posts
 reactionsColl = db.reactions
 commentsColl = db.comments
 
-base_url = 'https://graph.facebook.com/v2.9/'
-
 kill_now = False
 
 
