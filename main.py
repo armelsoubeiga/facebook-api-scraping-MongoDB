@@ -23,9 +23,9 @@ reactionsColl = db.reactions
 commentsColl = db.comments
 
 
-app_id = '475405940468229'
-app_secret = 'xrabybAYA9AAfcy-Vr1GJoluttQ'
-token = '475405940468229|xrabybAYA9AAfcy-Vr1GJoluttQ'
+app_id = ''
+app_secret = ''
+token = ''
 
 base_url = 'https://graph.facebook.com/v2.9/'
 
